@@ -25,11 +25,6 @@ This project implements a real-time anomaly detection system for industrial robo
 - PostgreSQL database (Neon.tech account)
 - Git
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/bhattprajesh/predictive-maintenance.git
-cd predictive-maintenance
-```
 
 ### 2. Install Dependencies
 ```bash
