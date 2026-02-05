@@ -27,7 +27,7 @@ This project implements a real-time anomaly detection system for industrial robo
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/predictive-maintenance.git
+git clone https://github.com/bhattprajesh/predictive-maintenance.git
 cd predictive-maintenance
 ```
 
@@ -53,9 +53,7 @@ DB_PORT=5432
 # Option 1: Run Jupyter Notebook
 jupyter notebook notebooks/predictive_maintenance.ipynb
 
-# Option 2: Run Python script
-python src/run_experiment.py
-```
+
 
 ---
 
